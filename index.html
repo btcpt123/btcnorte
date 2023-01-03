@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>BTC Norte</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="BTC Norte (Portugal) is your local pleb community">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="static/assets/css/buble.css" />
+  <link rel="shortcut icon" href="static/assets/img/btcnorte.jpeg" />
+</head>
+
+<body>
+  <nav>
+    <a href="#/venues/overview">Venues</a>
+    <a href="#/content/meetups">Meetups</a>
+    <a href="#/content/links">Links</a>
+  </nav>
+  <div id="app">BTC Norte is loading...</div>
+  <script>
+    window.$docsify = {
+      repo: 'https://gitlab.com/btcpt123/btcnorte',
+      loadNavbar: false,
+      loadSidebar: '_sidebar.md',
+      basePath: window.location.pathname,
+      logo: 'static/assets/img/btcnorte.jpeg',
+      name: 'BTCNorte',
+      autoHeader: true,
+      search: 'auto',
+      relativePath: true,
+      routermode: 'history'
+    }
+  </script>
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+  </script>
+  <script src="static/assets/js/docsify.js"></script>
+  <script src="static/assets/js/search.min.js"></script>
+</body>
+
+</html>
