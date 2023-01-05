@@ -2,5 +2,5 @@
   * [Bella Braga](/venues/bellabraga.md)
   * [Nørdico](/venues/nordico.md)
   * [Soul Kitchen](/venues/soulkitchen.md)
-* [Meetups](/content/meetups.md)
-* [Links](/content/links.md)
+* [Meetups](/meetups.md)
+* [Links](/links.md)
