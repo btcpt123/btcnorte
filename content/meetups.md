@@ -6,3 +6,6 @@ We hold meetups every month, usually on the 21st!  Here is the calendar for 2023
 * Sat 21st Jan - Soul Kitchen, Braga, 11.30 -> 13.30
 * Tues 21st Feb - Nordico, Braga, 18.00 - 19.30
 * Tues 21st Mar - Bella Braga, Braga
+
+
+![](https://media-cdn.tripadvisor.com/media/photo-s/14/0c/07/e7/hoptrip-craft-beer-matosinhos.jpg)
