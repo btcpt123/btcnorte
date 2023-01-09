@@ -10,4 +10,7 @@ We hold meetups every month, usually on the 21st!  Here is the calendar for 2023
 * Tues 21st Mar - Bella Braga, Braga
 
 
-![]()
+Também, confira estes encontros em Lisboa:
+Also, check out these meetups in Lisbon:  
+
+[https://www.meetup.com/lisbon-bitcoin-maximalists/events/290821823/](https://www.meetup.com/lisbon-bitcoin-maximalists/events/290821823/)
