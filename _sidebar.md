@@ -2,5 +2,6 @@
   * [Bella Braga](/venues/bellabraga.md)
   * [Nørdico](/venues/nordico.md)
   * [Soul Kitchen](/venues/soulkitchen.md)
+  * [HopTrip Cafe](/venues/hoptrip.md)
 * [Meetups](/meetups.md)
 * [Links](/links.md)
