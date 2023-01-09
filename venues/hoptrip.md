@@ -1,5 +1,5 @@
 # HopTrip Cafe
-Excellent Craft Beer shop in Matosinhos, is open every day at !6:00 except Monday.
+Excellent Craft Beer shop in Matosinhos, is open every day at 16:00 except Monday.
 
 * Accepts: On-Chain, Lightning
 * Address:  Rua Heróis de França, 617, Matosinhos Portugal
