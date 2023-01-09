@@ -1,6 +1,6 @@
 # Meetups
 
-Nós realizamos meetups todos os meses! aqui você encontra o nosso calendário para 2023:
+Nós realizamos meetups todos os meses! Aqui você encontra o nosso calendário para 2023:
 
 We hold meetups every month, usually on the 21st!  Here is the calendar for 2023:
 
