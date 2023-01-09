@@ -9,6 +9,7 @@ Useful links for the Pleb community!
 * [BTC Map](https://btcmap.org) - venues around the world, which accept Bitcoin
 * [Njalla](https://njal.la) - pay for DNS, VPS and VPN with Bitcoin
 * [Light Sats](https://lightsats.com/) - give anyone tips over lightning by QR code
+* [Lisbon Bitcoin Maximalists](https://www.meetup.com/lisbon-bitcoin-maximalists/events/290821823/)
 
 ## Nostr
 
