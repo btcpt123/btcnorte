@@ -9,6 +9,7 @@ Useful links for the Pleb community!
 * [BTC Map](https://btcmap.org) - venues around the world, which accept Bitcoin
 * [Light Sats](https://lightsats.com/) - give anyone tips over lightning by QR code
 * [Lisbon Bitcoin Maximalists](https://www.meetup.com/lisbon-bitcoin-maximalists/events/290821823/)
+* [Portuguese Homestead](https://bitcoinmagazine.com/culture/bitcoin-and-homesteading-in-portugal)
 
 ## Nostr
 
@@ -18,7 +19,7 @@ Nostr is a decentralised version of Twitter. Own your data!
 * [Nostr.net](https://www.nostr.net/)
 * [Useful Links](https://uselessshit.co/resources/nostr)
 
-## Comprar Tech Coisas
+## Comprar Tech 
 
 * [Njalla](https://njal.la) - pay for DNS, VPS and VPN with Bitcoin
 * [Privex](https://www.privex.io/) - VPS com Lightning
