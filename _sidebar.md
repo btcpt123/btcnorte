@@ -3,5 +3,6 @@
   * [Nørdico](/venues/nordico.md)
   * [Soul Kitchen](/venues/soulkitchen.md)
   * [HopTrip Cafe](/venues/hoptrip.md)
+  * [Mananita Restaurant](/venues/mananita.md)
 * [Meetups](/meetups.md)
 * [Links](/links.md)
