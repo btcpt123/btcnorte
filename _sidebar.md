@@ -1,4 +1,4 @@
-* [Venues](/venues/overview.md)
+* [Venues](/venues.md)
   * [Bella Braga](/venues/bellabraga.md)
   * [Nørdico](/venues/nordico.md)
   * [Soul Kitchen](/venues/soulkitchen.md)
@@ -6,3 +6,4 @@
   * [Mananita Restaurant](/venues/mananita.md)
 * [Meetups](/meetups.md)
 * [Links](/links.md)
+* [Contact](/contact.md)
