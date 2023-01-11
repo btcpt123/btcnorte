@@ -11,6 +11,10 @@ If you pay them a visit, you can assist by leaving them a quality TripAdvisor re
 ## Matosinhos
 * [HopTrip Cafe](/venues/hoptrip)
 
+### Esposende
+
+* [mananita](/venutes/mananita)
+
 ## Braga
 
 * [Bella Braga](/venues/bellabraga)
