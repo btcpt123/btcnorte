@@ -7,7 +7,7 @@
     * [Soul Kitchen](/venues/soulkitchen.md)
   * Esposende
     * [Mananita Restaurant](/venues/mananita.md)
-    * [Siamo In Due Restaurant](/venues/siamo)
+    * [Siamo In Due Restaurant](/venues/siamo.md)
 * [Meetups](/meetups.md)
 * [Links](/links.md)
 * [Contact](/contact.md)
