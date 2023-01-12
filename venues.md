@@ -13,7 +13,8 @@ If you pay them a visit, you can assist by leaving them a quality TripAdvisor re
 
 ### Esposende
 
-* [mananita](/venutes/mananita)
+* [Mananita Restaurant](/venues/mananita)
+* [Siamo Restaurant](/venues/siamo)
 
 ## Braga
 
