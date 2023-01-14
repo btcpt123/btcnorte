@@ -1,6 +1,6 @@
 # Links
 
-Useful links for the Pleb community!
+Links úteis para a comunidade pleb
 
 
 * [Stacker News](https://stacker.news) - community BTC news
@@ -18,7 +18,7 @@ Useful links for the Pleb community!
 * [Privex](https://www.privex.io/) - VPS com Lightning
 * [BitRefill](https://www.bitrefill.com/) - vouchers for anything you can think of
 
-## Communication
+## Comunicado
 
 * [Simplex Chat](https://simplex.chat/) - Private Messaging
 * [Sphinx](http://sphinx.chat/) - Chat over lightning
@@ -26,3 +26,7 @@ Useful links for the Pleb community!
 * [Nostr.net](https://www.nostr.net/)
 * [Useful Nostr Links](https://uselessshit.co/resources/nostr)
 * [BTC Norte Nostr Channel](https://anigma.io/index.html?channel=a5a52796e4e134d2e4dc2e37a1d724b5b35d4f0f2bbab736a3a4e60bc5077606) 
+
+## Educação
+
+* [Crypto Couple](https://www.youtube.com/@thecryptoc0up1e/featured)
