@@ -17,6 +17,7 @@ Links úteis para a comunidade pleb
 * [Njalla](https://njal.la) - pay for DNS, VPS and VPN with Bitcoin
 * [Privex](https://www.privex.io/) - VPS com Lightning
 * [BitRefill](https://www.bitrefill.com/) - vouchers for anything you can think of
+* [Crypton](https://crypton.sh/) - rent online phone numbers from 7 EUR / month
 
 ## Comunicado
 
