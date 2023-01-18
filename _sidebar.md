@@ -5,6 +5,7 @@
     * [Bella Braga](/venues/bellabraga.md)
     * [Nørdico](/venues/nordico.md)
     * [Soul Kitchen](/venues/soulkitchen.md)
+    * [Supremus Crossfit](/venues/supremus.md)
   * Esposende
     * [Mananita Restaurant](/venues/mananita.md)
     * [Siamo In Due Restaurant](/venues/siamo.md)
