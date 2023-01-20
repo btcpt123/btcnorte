@@ -1,6 +1,6 @@
-#  Supremus Crossfit
+#  Supremus Crossbox
 
-Supremus Crossfit is a well-equipped and friendly box, close to the train station in Braga. Members of all abilities are accepted, and subscription rates are very reasonable.
+Crossbox is a well-equipped and friendly center for functional training and weightlifting, close to the train station in Braga. Members of all abilities are accepted, and subscription rates are very reasonable.
 
 Especially given that you will be in the best shape of your life, after a few months!
 
