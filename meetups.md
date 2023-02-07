@@ -3,6 +3,7 @@
 Nós realizamos meetups todos os meses! Aqui você encontra o nosso calendário para 2023:
 
 * Tues 21st Feb - [Nordico](https://www.tripadvisor.com/Restaurant_Review-g189171-d13939990-Reviews-Nordico_Coffee_Shop_Specialty_Coffee_Brunch-Braga_Braga_District_Northern_Portug.html), Braga, 18.00 - 19.30
+* Sat 25th Feb - [Hop Trip Cafe](https://www.tripadvisor.com/Restaurant_Review-g652092-d14939384-Reviews-HopTrip_Craft_Beer-Matosinhos_Porto_District_Northern_Portugal.html), Matosinhos, Porto, 18.00
 * Tues 21st Mar - Bella Braga, Braga
 
 ## Outros Encontros
