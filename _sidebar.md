@@ -1,5 +1,7 @@
 * [Venues](/venues.md)
   * Porto
+    * [Álvares Brewing Co.](/venues/alvares.md)
+  * Matosinhos
     * [HopTrip Cafe](/venues/hoptrip.md)
   * Braga
     * [Bella Braga](/venues/bellabraga.md)
