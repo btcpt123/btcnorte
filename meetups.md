@@ -3,7 +3,7 @@
 Nós realizamos meetups todos os meses! Aqui você encontra o nosso calendário para 2023:
 
 * Tues 21st Feb - [Nordico](https://www.tripadvisor.com/Restaurant_Review-g189171-d13939990-Reviews-Nordico_Coffee_Shop_Specialty_Coffee_Brunch-Braga_Braga_District_Northern_Portug.html), Braga, 18.00 - 19.30
-* Sat 25th Feb - [Álvares Brewing Co.]([https://goo.gl/maps/C7962KKMcPGsjrMV9)], Porto, 18.00
+* Sat 25th Feb - [Álvares Brewing Co.]([https://goo.gl/maps/C7962KKMcPGsjrMV9), Porto, 18.00
 * Tues 21st Mar - [Bella Braga](https://btcnorte.org/#/venues/bellabraga), Braga
 
 ## Outros Encontros
