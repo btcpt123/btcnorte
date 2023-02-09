@@ -4,6 +4,9 @@ Existem vários estabelecimentos no Norte de Portugal que aceitam pagamentos em 
 
 Se você fizer uma visita a eles, poderá ajudar deixando uma avaliação de qualidade do TripAdvisor!
 
+## Porto
+* [Álvares Brewing Co.](/venues/alvares)
+
 ## Matosinhos
 * [HopTrip Cafe](/venues/hoptrip)
 
