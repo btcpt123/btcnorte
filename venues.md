@@ -10,7 +10,7 @@ Se você fizer uma visita a eles, poderá ajudar deixando uma avaliação de qua
 ## Matosinhos
 * [HopTrip Cafe](/venues/hoptrip)
 
-### Esposende
+## Esposende
 
 * [Mananita Restaurant](/venues/mananita)
 * [Siamo Restaurant](/venues/siamo)
@@ -20,4 +20,8 @@ Se você fizer uma visita a eles, poderá ajudar deixando uma avaliação de qua
 * [Bella Braga](/venues/bellabraga)
 * [Nordico](/venues/nordico)
 * [Soul Kitchen](/venues/soulkitchen)
-* [Supremus Crossfit](/venues/supremus.md)
+* [Supremus Crossfit](/venues/supremus)
+
+## Esmoriz
+
+* [PTWINEHOUSE](/venues/ptwinehouse)
