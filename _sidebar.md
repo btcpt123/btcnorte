@@ -11,6 +11,8 @@
   * Esposende
     * [Mananita Restaurant](/venues/mananita.md)
     * [Siamo In Due Restaurant](/venues/siamo.md)
+  * Esmoriz
+    * [PTWINEHOUSE](/venues/ptwinehouse.md)
 * [Meetups](/meetups.md)
 * [Links](/links.md)
 * [Contact](/contact.md)
