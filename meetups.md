@@ -2,8 +2,8 @@
 
 Nós realizamos meetups todos os meses! Aqui você encontra o nosso calendário para 2023:
 
-* Sat 25th Feb - [Álvares Brewing Co.](https://goo.gl/maps/C7962KKMcPGsjrMV9), Porto, 18.00
 * Tues 21st Mar - [Bella Braga](https://btcnorte.org/#/venues/bellabraga), Braga
+* Sat 25th Mar - [PTWINEHOUSE](https://goo.gl/maps/3kg8FHhZiXXDs1es8), Esmoriz, 18.00
 
 ## Outros Encontros
 
@@ -17,3 +17,4 @@ Lisboa:
 * Sat 14th Jan - [Hop Trip Cafe](https://www.tripadvisor.com/Restaurant_Review-g652092-d14939384-Reviews-HopTrip_Craft_Beer-Matosinhos_Porto_District_Northern_Portugal.html), Matasinhos, Porto, 18.00
 * Sat 21st Jan - [Soul Kitchen](https://www.tripadvisor.com/Restaurant_Review-g189171-d16683219-Reviews-Soul_Alimentacao_Saudavel_e_do_Bem-Braga_Braga_District_Northern_Portugal.html), Braga, 11.30 -> 13.30
 * Tues 21st Feb - [Nordico](https://www.tripadvisor.com/Restaurant_Review-g189171-d13939990-Reviews-Nordico_Coffee_Shop_Specialty_Coffee_Brunch-Braga_Braga_District_Northern_Portug.html), Braga, 18.00 - 19.30
+* Sat 25th Feb - [Álvares Brewing Co.](https://goo.gl/maps/C7962KKMcPGsjrMV9), Porto, 18.00
