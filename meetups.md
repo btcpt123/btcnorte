@@ -2,7 +2,7 @@
 
 Nós realizamos meetups todos os meses! Aqui você encontra o nosso calendário para 2023:
 
-* Tues 21st Mar - [Bella Braga](https://btcnorte.org/#/venues/bellabraga), Braga
+* Sat 18th Mar - [Bella Braga](https://btcnorte.org/#/venues/bellabraga), Braga, 14.00
 * Sat 25th Mar - [PTWINEHOUSE](https://goo.gl/maps/3kg8FHhZiXXDs1es8), Esmoriz, 18.00
 
 ## Outros Encontros
