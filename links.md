@@ -22,12 +22,10 @@ Links úteis para a comunidade pleb
 ## Comunicado
 
 * [Simplex Chat](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FAozC0MeKIfac_hB3zQtF8uP_5kzdlM6U%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAy1cohCU-oDIg9CYsQ96UTxdaWk5t4NB9CPR9n500nmI%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22rUXjHMDhAIUSGJ-Zz5Fdfg%3D%3D%22%7D) - Private Messaging
-* [Sphinx](http://sphinx.chat/) - Chat over lightning
 * [Nostr](https://github.com/nostr-protocol/nostr) - Public messaging
 * [Keet](punch://jc38t9nr7fasay4nqfxwfaawywfd3y14krnsitj67ymoubiezqdy/ymhq591x4y8p13zcp7fphnwrzd6xmuhy1iqtu6q1mcw9onx6yzmm7b68jw9send1kqmj3tti4dj6nyqkn6cyx6srm4cj8dwwbjzk1ry8yry995a4m3facyeyybyq4qd6zddo3nf5thr11w15ppsjweptexn63dperpgx59d9mym6bkze3y3x3gzyaa9ftuxtcqueapb6xw31z56z4fq5imc39o9nib1sbo) - p2p
 * [Nostr.net](https://www.nostr.net/)
 * [Useful Nostr Links](https://uselessshit.co/resources/nostr)
-* [BTC Norte Nostr Channel](https://anigma.io/index.html?channel=a5a52796e4e134d2e4dc2e37a1d724b5b35d4f0f2bbab736a3a4e60bc5077606) 
 
 ## Educação
 
