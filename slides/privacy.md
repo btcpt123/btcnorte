@@ -30,7 +30,7 @@ npx @marp-team/marp-cli slides/privacy.md -o privacy/index.html --html=true
 
 # NYT Expose (2019)
 
-New York Times purchased "anonymous" location data to demonstrate how easy it was to track individuals, including Senior Defence Officials (and families)
+New York Times purchased "anonymous" location data to show how easily individuals could be tracked, such Senior Defence Officials (and families)
 
 [source](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html)
 
@@ -150,13 +150,13 @@ Recommend:  protonmail, mail-in-a-box, cloudron
 
 # Chat 
 
- - No reliance on a phone number (or shitcoin)
- - No reliance on a central / 3rd party server 
+ - Should be no reliance on a phone number (or shitcoin)
+ - Should not depend on a 3rd party server 
  - Open Source
 
 Recommended:
-  - Simplex Chat (vs whatsapp, signal, telegram)
-  - Matrix (vs discord, slack, teams)
+  - **Simplex Chat** (vs whatsapp, signal, telegram)
+  - **Matrix** (vs discord, slack, teams)
 
 ---
 
@@ -181,7 +181,7 @@ Recommended:
 
 # VPN Hardware
 
-- Protect all devices (unlike hotspot)
+- Protects all devices (unlike hotspot)
 - Connect over cable or https
 
 Recommended:
@@ -259,4 +259,6 @@ Candian court orders Nunchuk to disclose customer records
 
 ## Links
 
-* https://pluja.github.io/awesome-privacy/
+- https://pluja.github.io/awesome-privacy/
+- https://www.privacyguides.org/en/tools/
+- https://inteltechniques.com

@@ -9,7 +9,7 @@ Links úteis para a comunidade pleb
 * [Light Sats](https://lightsats.com/) - give anyone tips over lightning by QR code
 * [Lisbon Bitcoin Maximalists](https://www.meetup.com/lisbon-bitcoin-maximalists/events/290821823/)
 * [Portuguese Homestead](https://bitcoinmagazine.com/culture/bitcoin-and-homesteading-in-portugal)
-* [Privacy Tools / Alternatives](https://pluja.github.io/awesome-privacy/)
+* [Privacy Guide](https://btcnorte.org/privacy)
 
 
 ## Comprar  
