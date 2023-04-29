@@ -188,7 +188,7 @@ Recommended:
 
  - [Nitrowall NW4J3](https://shop.nitrokey.com/shop/product/nitrowall-nw4j3-279)
  - [Mudi Travel Router](https://www.gl-inet.com/products/gl-e750/)
- - [Jameson  Lopp Gude](https://blog.lopp.net/how-to-protect-your-home-network-with-a-gigabit-vpn/)
+ - [Jameson  Lopp Guide](https://blog.lopp.net/how-to-protect-your-home-network-with-a-gigabit-vpn/)
 
 ![bg right:48% height:580px](https://i.imgur.com/NZp17jZ.jpg)
 
