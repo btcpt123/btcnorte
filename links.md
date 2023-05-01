@@ -6,7 +6,7 @@ Links úteis para a comunidade pleb
 * [Stacker News](https://stacker.news) - community BTC news
 * [RoboSats](https://learn.robosats.com) - purchase bitcoin without doxxing yourself
 * [BTC Map](https://btcmap.org) - venues around the world, which accept Bitcoin
-* [Light Sats](https://lightsats.com/) - give anyone tips over lightning by QR code
+* [Light Sats](https://lightsats.com/) - print BTC tips using lightning 
 * [Lisbon Bitcoin Maximalists](https://www.meetup.com/lisbon-bitcoin-maximalists/events/290821823/)
 * [Portuguese Homestead](https://bitcoinmagazine.com/culture/bitcoin-and-homesteading-in-portugal)
 * [Privacy Guide](https://btcnorte.org/privacy/)
