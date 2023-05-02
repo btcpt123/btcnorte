@@ -29,4 +29,4 @@ Links úteis para a comunidade pleb
 
 ## Educação
 
-* [Crypto Couple](https://www.youtube.com/@thecryptoc0up1e/featured)
+* [Crypto Couple](https://piped.kavin.rocks/@thecryptoc0up1e/)
