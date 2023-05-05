@@ -4,7 +4,6 @@ Links úteis para a comunidade pleb
 
 
 * [Stacker News](https://stacker.news) - community BTC news
-* [RoboSats](https://learn.robosats.com) - purchase bitcoin without doxxing yourself
 * [BTC Map](https://btcmap.org) - venues around the world, which accept Bitcoin
 * [Light Sats](https://lightsats.com/) - print BTC tips using lightning 
 * [Lisbon Bitcoin Maximalists](https://www.meetup.com/lisbon-bitcoin-maximalists/events/290821823/)
@@ -14,6 +13,7 @@ Links úteis para a comunidade pleb
 
 ## Comprar  
 
+* [RoboSats](https://learn.robosats.com) - P2P Bitcoin on Lightning
 * [Njalla](https://njal.la) - pay for DNS, VPS and VPN with Bitcoin
 * [Privex](https://www.privex.io/) - VPS com Lightning
 * [BitRefill](https://www.bitrefill.com/) - vouchers for anything you can think of
