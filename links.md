@@ -30,4 +30,4 @@ Links úteis para a comunidade pleb
 ## Educação
 
 * [Crypto Couple](https://piped.kavin.rocks/@thecryptoc0up1e/)
-* [A Superioridade Moral do Bitcoin](static/A_Superioridade_Moral_do_Bitcoin.pdf)
+* [A Superioridade Moral do Bitcoin](/static/A_Superioridade_Moral_do_Bitcoin.pdf)
