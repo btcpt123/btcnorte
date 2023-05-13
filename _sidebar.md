@@ -5,6 +5,7 @@
     * [HopTrip Cafe](/venues/hoptrip.md)
   * Braga
     * [Bella Braga](/venues/bellabraga.md)
+    * [FG Male Image & Grooming](/venues/fgmaleimage.md)
     * [Nørdico](/venues/nordico.md)
     * [Soul Kitchen](/venues/soulkitchen.md)
     * [Supremus Crossbox](/venues/supremus.md)
