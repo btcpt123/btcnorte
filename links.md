@@ -4,16 +4,16 @@ Links úteis para a comunidade pleb
 
 
 * [Stacker News](https://stacker.news) - community BTC news
-* [RoboSats](https://learn.robosats.com) - purchase bitcoin without doxxing yourself
 * [BTC Map](https://btcmap.org) - venues around the world, which accept Bitcoin
-* [Light Sats](https://lightsats.com/) - give anyone tips over lightning by QR code
+* [Light Sats](https://lightsats.com/) - print BTC tips using lightning 
 * [Lisbon Bitcoin Maximalists](https://www.meetup.com/lisbon-bitcoin-maximalists/events/290821823/)
 * [Portuguese Homestead](https://bitcoinmagazine.com/culture/bitcoin-and-homesteading-in-portugal)
-* [Privacy Tools / Alternatives](https://pluja.github.io/awesome-privacy/)
+* [Privacy Guide](https://btcnorte.org/privacy/)
 
 
 ## Comprar  
 
+* [RoboSats](https://learn.robosats.com) - P2P Bitcoin on Lightning
 * [Njalla](https://njal.la) - pay for DNS, VPS and VPN with Bitcoin
 * [Privex](https://www.privex.io/) - VPS com Lightning
 * [BitRefill](https://www.bitrefill.com/) - vouchers for anything you can think of
@@ -29,4 +29,5 @@ Links úteis para a comunidade pleb
 
 ## Educação
 
-* [Crypto Couple](https://www.youtube.com/@thecryptoc0up1e/featured)
+* [Crypto Couple](https://piped.kavin.rocks/@thecryptoc0up1e/)
+* [A Superioridade Moral do Bitcoin](https://btcnorte.org/static/A_Superioridade_Moral_do_Bitcoin.pdf)
