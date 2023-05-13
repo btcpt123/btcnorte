@@ -18,6 +18,7 @@ Se você fizer uma visita a eles, poderá ajudar deixando uma avaliação de qua
 ## Braga
 
 * [Bella Braga](/venues/bellabraga)
+* [FG Male Image & Grooming](/venues/fgmaleimage.md)
 * [Nordico](/venues/nordico)
 * [Soul Kitchen](/venues/soulkitchen)
 * [Supremus Crossfit](/venues/supremus)
