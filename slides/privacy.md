@@ -155,8 +155,8 @@ Recommend:  protonmail, mail-in-a-box, cloudron
  - Open Source
 
 Recommended:
-  - **Simplex Chat** (vs whatsapp, signal, telegram)
-  - **Matrix** (vs discord, slack, teams)
+  - **Simplex Chat** (_avoid whatsapp, signal, telegram_)
+  - **Matrix** (_avoid discord, slack, teams_)
 
 ---
 
@@ -164,7 +164,7 @@ Recommended:
 
  - Use a Password Manager (self-host)
  - Always use 2FA (VaultWarden)
- - Use a FIDO2 device wherever possible (Trezor)
+ - Use a FIDO2 device wherever possible (Trezor, Bitbox)
 
 ---
 
@@ -187,7 +187,7 @@ Recommended:
 Recommended:
 
  - [Nitrowall NW4J3](https://shop.nitrokey.com/shop/product/nitrowall-nw4j3-279)
- - [Mudi Travel Router](https://www.gl-inet.com/products/gl-e750/)
+ - [Mudi Travel Router](https://www.gl-inet.com/products/gl-e750/) with [Blue Merle](https://github.com/srlabs/blue-merle) for random IMEI with each sim-swap
  - [Jameson  Lopp Guide](https://blog.lopp.net/how-to-protect-your-home-network-with-a-gigabit-vpn/)
 
 ![bg right:48% height:580px](https://i.imgur.com/NZp17jZ.jpg)
