@@ -2,7 +2,7 @@
 
 Nós realizamos meetups todos os meses! Aqui você encontra o nosso calendário para 2023:
 
-* Sat 17th May - [Hop Trip Cafe](https://www.tripadvisor.com/Restaurant_Review-g652092-d14939384-Reviews-HopTrip_Craft_Beer-Matosinhos_Porto_District_Northern_Portugal.html), Matosinhos, Porto, 18.00
+* Sat 17th Jun - [Hop Trip Cafe](https://www.tripadvisor.com/Restaurant_Review-g652092-d14939384-Reviews-HopTrip_Craft_Beer-Matosinhos_Porto_District_Northern_Portugal.html), Matosinhos, Porto, 18.00
 
 
 ## Outros Encontros
