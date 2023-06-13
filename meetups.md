@@ -2,7 +2,7 @@
 
 Nós realizamos meetups todos os meses! Aqui você encontra o nosso calendário para 2023:
 
-* Sat 27th Maio - [Álvares Brewing Co.](https://goo.gl/maps/C7962KKMcPGsjrMV9), Porto, 18.00
+* Sat 17th May - [Hop Trip Cafe](https://www.tripadvisor.com/Restaurant_Review-g652092-d14939384-Reviews-HopTrip_Craft_Beer-Matosinhos_Porto_District_Northern_Portugal.html), Matosinhos, Porto, 18.00
 
 
 ## Outros Encontros
@@ -21,3 +21,4 @@ Lisboa:
 * Sat 18th Mar - [Bella Braga](https://btcnorte.org/#/venues/bellabraga), Braga, 14.00
 * Sat 25th Mar - [PTWINEHOUSE](https://goo.gl/maps/3kg8FHhZiXXDs1es8), Esmoriz, 18.00
 * Sab 29 Abr - [Hop Trip Cafe](https://www.tripadvisor.com/Restaurant_Review-g652092-d14939384-Reviews-HopTrip_Craft_Beer-Matosinhos_Porto_District_Northern_Portugal.html), Matosinhos, Porto, 18.00
+* Sat 27th Maio - [Álvares Brewing Co.](https://goo.gl/maps/C7962KKMcPGsjrMV9), Porto, 18.00
