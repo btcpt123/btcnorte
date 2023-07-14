@@ -4,11 +4,12 @@
   * Matosinhos
     * [HopTrip Cafe](/venues/hoptrip.md)
   * Braga
+    * [Alma Do Raio](/venues/alma-do-raio.md)
     * [Bella Braga](/venues/bellabraga.md)
     * [FG Male Image & Grooming](/venues/fgmaleimage.md)
     * [Nørdico](/venues/nordico.md)
     * [Soul Kitchen](/venues/soulkitchen.md)
-    * [Supremus Crossbox](/venues/supremus.md)
+    * [Supremus Crossbox](/venues/supremus.md) 
   * Esposende
     * [Mananita Restaurant](/venues/mananita.md)
     * [Siamo In Due Restaurant](/venues/siamo.md)
