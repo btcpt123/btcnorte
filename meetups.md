@@ -2,7 +2,7 @@
 
 Nós realizamos meetups todos os meses! Aqui você encontra o nosso calendário para 2023:
 
-* Sat 14th Out - [ French Fries Factory](https://www.meetup.com/btc-norte/events/296724210), Porto, 18.00
+* Sat 4th Nov - [Alma Do Raio](https://www.meetup.com/btc-norte/events/296834228/), Braga, 18.30
 
 ## Outros Encontros
 
@@ -29,4 +29,5 @@ Lisboa:
 * Sat 30th Set - French Fries Factory, Porto, 18.00
 * Sat 14th Oct - French Fries Factory, Porto, 18.00
 * Tues 10th Out - [Alma do Raio](https://www.meetup.com/btc-norte/events/296488691/), Braga, 18.00
+* Sat 14th Out - [ French Fries Factory](https://www.meetup.com/btc-norte/events/296724210), Porto, 18.00
 
