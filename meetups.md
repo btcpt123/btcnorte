@@ -2,8 +2,8 @@
 
 Nós realizamos meetups todos os meses! Aqui você encontra o nosso calendário para 2023:
 
-* Sab 25 Nov - Porto (Lugar vai ser confirmar), 18.00
-
+* Sab 25 Nov - [ French Fries Factory](https://www.meetup.com/btc-norte/events/296724210), Porto, 18.00
+  
 ## Outros Encontros
 
 Lisboa:
