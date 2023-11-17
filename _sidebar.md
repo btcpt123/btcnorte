@@ -1,6 +1,5 @@
 * [Venues](/venues.md)
   * Porto
-    * [Álvares Brewing Co.](/venues/alvares.md)
     * [French Fries Factory](/venues/french-fries-factory.md)
   * Matosinhos
     * [HopTrip Cafe](/venues/hoptrip.md)
