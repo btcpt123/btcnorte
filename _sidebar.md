@@ -12,6 +12,7 @@
     * [FG Male Image & Grooming](/venues/fgmaleimage.md)
     * [Jiu-Jitsu Braga](/venues/jiu-jitsu-braga.md)
     * [Nørdico](/venues/nordico.md)
+    * [Omakase Japanese Restaurant](/venues/omakase.md)
     * [Pinky Space - Nail Salon](/venues/pinky-space.md)
     * [Soul Kitchen](/venues/soulkitchen.md)
     * [Supremus Crossbox](/venues/supremus.md) 
