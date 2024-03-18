@@ -2,7 +2,7 @@
 
 Nós realizamos meetups todos os meses! Aqui você encontra o nosso calendário para 2023:
 
-* Sab 25 Nov - [ French Fries Factory](https://www.meetup.com/btc-norte/events/296724210), Porto, 18.00
+* Sab 23 Mar - [Hop Trip Cafe](https://www.tripadvisor.com/Restaurant_Review-g652092-d14939384-Reviews-HopTrip_Craft_Beer-Matosinhos_Porto_District_Northern_Portugal.html), Matosinhos, 16.00
   
 ## Outros Encontros
 
@@ -31,3 +31,7 @@ Lisboa:
 * Tues 10th Out - [Alma do Raio](https://www.meetup.com/btc-norte/events/296488691/), Braga, 18.00
 * Sat 14th Out - [ French Fries Factory](https://www.meetup.com/btc-norte/events/296724210), Porto, 18.00
 * Sat 4th Nov - [Alma Do Raio](https://www.meetup.com/btc-norte/events/296834228/), Braga, 18.30
+* Sab 25 Nov - [ French Fries Factory](https://www.meetup.com/btc-norte/events/296724210), Porto, 18.00
+* Sab 16 Dez - [ French Fries Factory](https://www.meetup.com/btc-norte/events/296724210), Porto, 18.00
+* Sab 20 Jan - [ French Fries Factory](https://www.meetup.com/btc-norte/events/296724210), Porto, 18.00
+* Sab 24 Fev - [ French Fries Factory](https://www.meetup.com/btc-norte/events/296724210), Porto, 18.00
