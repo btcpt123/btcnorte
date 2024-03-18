@@ -3,6 +3,7 @@
 Nós realizamos meetups todos os meses! Aqui você encontra o nosso calendário para 2023:
 
 * Sab 23 Mar - [Hop Trip Cafe](https://www.tripadvisor.com/Restaurant_Review-g652092-d14939384-Reviews-HopTrip_Craft_Beer-Matosinhos_Porto_District_Northern_Portugal.html), Matosinhos, 16.00
+* Sab 30 MAr - [ French Fries Factory](https://www.meetup.com/btc-norte/events/296724210), Porto, 18.00
   
 ## Outros Encontros
 
